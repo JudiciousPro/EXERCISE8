@@ -1,0 +1,208 @@
+.Name-email{
+  background-color: white;
+  display: block;
+  width: 180px;
+  height: 60px;
+  padding-left: 3px;
+  padding-top: 3px;
+  margin-left: 50px;
+}
+
+.Name{
+  display: block;
+  margin-bottom: 5px;
+  border-width: 1px;
+  border-color: rgb(197, 194, 194);
+  border-radius: 4px;
+  padding-left: 3px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-size: 14px;
+  color: grey;
+}
+
+.Email{
+  display: block;
+  margin-bottom: 5px;
+  border-width: 1px;
+  border-color: rgb(197, 194, 194);
+  border-radius: 4px;
+  padding-left: 3px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-size: 14px;
+  color: grey;
+}
+
+.Survey{
+  display: inline-block;
+  margin-left: 25px;
+}
+.Survey-thanks{
+  width: 250px;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  line-height: 22px;
+  display: block;
+}
+
+.Button{
+  display: inline-block;
+  vertical-align: middle;
+  justify-content: center;
+  height: 70px;
+}
+
+.Yes{
+  font-weight: bold;
+  vertical-align: middle;
+  margin-right: 3px;
+  border: solid 2px rgb(187, 186, 186);
+}
+
+.No{
+  font-weight: bold;
+  vertical-align: middle;
+  margin-right: 3px;
+  border: solid 2px rgb(187, 186, 186);
+}
+
+.Google{
+  display: block;
+  margin-bottom: none;
+}
+
+.Google-logo{
+  margin-left: 100px;
+  margin-bottom: 0px;
+  display: block;
+}
+
+.Search-google{
+  display: block;
+  height: 30px;
+  width: 370px;
+  border-style: solid;
+  border-width: 0px;
+  border-radius: 20px;
+  padding-left: 15px;
+  padding-top: 0px;
+  padding-bottom: 2px;
+  color: gray;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  box-shadow: 5px 4px 6px rgba(209, 202, 202, 0.6);
+}
+
+  .Form{
+    display: inline-block;
+    margin-right: 50px;
+  }
+
+.First-name{
+  padding-left: 4px;
+  padding-right: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 90px;
+  border-radius: 4px;
+}
+
+.Last-name{
+  padding-left: 4px;
+  padding-right: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 90px;
+  border-radius: 4px;
+}
+.Email-form{
+  display: block;
+  margin-top: 10px;
+  padding-left: 4px;
+  padding-right: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  width: 197px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.Signup{
+  display: block;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  border: solid 2px blue;
+  border-radius: 4px;
+  width: 210px;
+  margin-top: 10px;
+  padding-left: 4px;
+  padding-right: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-top: 10px;
+}
+
+.Uber-form{
+  display: inline-block;
+  width: 300px;
+}
+
+.Request-a-ride{
+  display: inline-block;
+  font-family: 'Arial';
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.Pickup-location{
+  background-color: rgb(235, 234, 233);
+  border: solid 2px rgb(240, 236, 230);
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 130px;
+  margin-bottom: 10px;
+}
+.Destination{
+  display: block;
+  background-color: rgb(235, 234, 233);
+  border: solid 2px rgb(240, 236, 230);
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 130px;
+  margin-bottom: 15px;
+}
+
+.Request-now{
+  background-color: black;
+  color: white;
+  border: solid 2px black;
+  border-radius: 2px;
+  padding-left: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 15px;
+}
+
+.Schedule-for-later{
+  background-color: rgb(235, 234, 233);;
+  color: black;
+  font-weight: bold;
+  border: solid 2px rgb(240, 236, 230);
+  border-radius: 2px;
+  padding-left: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 15px;
+  margin-left: 10px;
+}
